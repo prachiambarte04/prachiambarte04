@@ -79,5 +79,6 @@ My goal is to build a successful career, become financially independent, and sup
 
 ## 📫 Connect With Me
 
-🔗 GitHub: (Add your link)
+🔗 GitHub: https://github.com/prachiambarte04
+
 🔗 LinkedIn: www.linkedin.com/in/prachi-ambarte17
