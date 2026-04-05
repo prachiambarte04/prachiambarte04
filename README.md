@@ -19,10 +19,15 @@ My goal is to build a successful career, become financially independent, and sup
 ## 🛠️ Skills & Tools
 
 **Programming:** Python
+
 **Data Analysis:** Pandas, NumPy, SQL, Excel
+
 **Machine Learning:** Basic ML concepts, model building
+
 **Visualization:** Matplotlib, Seaborn
+
 **Deployment:** Streamlit
+
 **Tools:** Git, GitHub, VS Code
 
 ---
@@ -38,6 +43,7 @@ My goal is to build a successful career, become financially independent, and sup
 * Used SQL queries to extract insights like top restaurants and popular cuisines
 * Built an interactive Power BI dashboard to visualize restaurant performance and key insights
 🔗 GitHub: (Add your GitHub repo link)
+
 🔗 Power BI Dashboard: (Add your dashboard link or screenshot link)
 ---
 
@@ -47,6 +53,7 @@ My goal is to build a successful career, become financially independent, and sup
 * Worked on image dataset and preprocessing
 * Trained CNN model for prediction
 🔗 GitHub: (Add your GitHub repo link)
+
 🔗 Power BI Dashboard: (Add your dashboard link or screenshot link)
 
 ---
@@ -56,6 +63,7 @@ My goal is to build a successful career, become financially independent, and sup
 * Learning annotation and object detection using YOLO
 * Working on identifying plant nutrient deficiencies
 🔗 GitHub: (Add your GitHub repo link)
+
 🔗 Power BI Dashboard: (Add your dashboard link or screenshot link)in
 
 ---
