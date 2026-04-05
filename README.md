@@ -42,9 +42,9 @@ My goal is to build a successful career, become financially independent, and sup
 * Performed Exploratory Data Analysis (EDA) to identify trends in ratings, votes, cuisines, and city distribution
 * Used SQL queries to extract insights like top restaurants and popular cuisines
 * Built an interactive Power BI dashboard to visualize restaurant performance and key insights
+  
 🔗 GitHub: (Add your GitHub repo link)
 
-🔗 Power BI Dashboard: (Add your dashboard link or screenshot link)
 ---
 
 ### ✅ Leaf Disease Detection (CNN Model)
@@ -52,9 +52,10 @@ My goal is to build a successful career, become financially independent, and sup
 * Built a model to classify plant leaf diseases
 * Worked on image dataset and preprocessing
 * Trained CNN model for prediction
-🔗 GitHub: (Add your GitHub repo link)
+  
+🔗 GitHub: https://github.com/prachiambarte04/palm_leaf_classification
 
-🔗 Power BI Dashboard: (Add your dashboard link or screenshot link)
+🔗 Streamlit: https://palmleafclassification-cnn.streamlit.app/
 
 ---
 
@@ -62,6 +63,7 @@ My goal is to build a successful career, become financially independent, and sup
 
 * Learning annotation and object detection using YOLO
 * Working on identifying plant nutrient deficiencies
+* 
 🔗 GitHub: (Add your GitHub repo link)
 
 🔗 Power BI Dashboard: (Add your dashboard link or screenshot link)in
