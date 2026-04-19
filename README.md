@@ -68,7 +68,6 @@ My goal is to build a successful career, become financially independent, and sup
 * Optimized confidence threshold for better predictions
 * Developed a Streamlit web app for real-time detection with bounding boxes 
 
-🔗 GitHub: 
 ---
 
 ### ✅ Streamlit Data App
