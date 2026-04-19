@@ -61,11 +61,14 @@ My goal is to build a successful career, become financially independent, and sup
 
 ---
 
-### ✅ Object Detection Project (YOLO) - (Working)
+### ✅ Leaf Disease Detection using YOLOv8
 
-* Learning annotation and object detection using YOLO
-* Working on identifying plant nutrient deficiencies
+* Built an object detection model using YOLOv8 on 8,000+ images
+* Performed data annotation, preprocessing, and training
+* Optimized confidence threshold for better predictions
+* Developed a Streamlit web app for real-time detection with bounding boxes 
 
+🔗 GitHub: 
 ---
 
 ### ✅ Streamlit Data App
