@@ -66,7 +66,11 @@ My goal is to build a successful career, become financially independent, and sup
 * Built an object detection model using YOLOv8 on 8,000+ images
 * Performed data annotation, preprocessing, and training
 * Optimized confidence threshold for better predictions
-* Developed a Streamlit web app for real-time detection with bounding boxes 
+* Developed a Streamlit web app for real-time detection with bounding boxes
+
+🔗 GitHub: 
+
+🔗 Streamlit: https://leaf-disease-detection-yolo.streamlit.app/
 
 ---
 
