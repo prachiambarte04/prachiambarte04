@@ -74,6 +74,17 @@ My goal is to build a successful career, become financially independent, and sup
 
 ---
 
+### ✅ Intelligent NLP Chatbot (Sentence Transformers)
+
+* Developed InterviewPrep AI, an NLP-based chatbot for interview preparation.
+* Used Transformer embeddings and cosine similarity for semantic question-answer matching.
+* Built an interactive Streamlit web interface with chat and dataset features.
+* Improved chatbot response accuracy using semantic search and precomputed embeddings.
+
+🔗 GitHub: https://github.com/prachiambarte04/interviewprep-ai
+
+🔗 Streamlit: https://interviewprep-ai.streamlit.app/
+
 ### ✅ Streamlit Data App
 
 * Built interactive app using Streamlit
